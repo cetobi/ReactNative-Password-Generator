@@ -1,0 +1,1 @@
+## Este projeto é um estudo sobre React Native.
